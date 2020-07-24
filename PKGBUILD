@@ -1,4 +1,4 @@
-# Maintainer: Jakub Zalewski <jakzale@gmail.com>
+# Maintainer: Jakub Zalewski <jakub@pozitive.dev>
 
 pkgname=haskell-language-server-bin
 pkgver=0.2.1
