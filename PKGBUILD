@@ -1,7 +1,7 @@
 # Maintainer: Jakub Zalewski <jakub@pozitive.dev>
 
 pkgname=haskell-language-server-bin
-pkgver=0.2.1
+pkgver=0.2.2
 pkgrel=1
 pkgdesc='Integration point for ghcide and haskell-ide-engine.'
 arch=('x86_64')
@@ -16,7 +16,7 @@ source=("haskell-language-server-wrapper-$pkgver.gz::https://github.com/haskell/
         "haskell-language-server-8.6.5-$pkgver.gz::https://github.com/haskell/haskell-language-server/releases/download/0.2.1/haskell-language-server-Linux-8.6.5.gz"
         "haskell-language-server-8.6.4-$pkgver.gz::https://github.com/haskell/haskell-language-server/releases/download/0.2.1/haskell-language-server-Linux-8.6.4.gz")
 
-md5sums=('5d7a44860066710872f5750db43cadef'
+md5sums=('ca8a8594f07c7dae66c7f572f6edabb4'
          '8b2e47e05b952af32bb09bc5d1f93a58'
          'b45dd8b510204a1fadaf230e7c1d9ae4'
          'f13569899bc35f7a062f52b40ec2bf00'
